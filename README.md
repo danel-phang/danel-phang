@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danel-phang&show_icons=true&theme=vue&count_private=true)
+
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danel-phang&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
